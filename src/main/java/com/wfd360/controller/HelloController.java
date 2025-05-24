@@ -13,6 +13,6 @@ public class HelloController {
     @ResponseBody
     public String data() {
         System.out.println("---------data----------");
-        return "hello word";
+        return "hello word!!";
     }
 }
